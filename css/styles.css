@@ -680,6 +680,7 @@ main {
 	font-weight: 400;
 	font-size: 16px;
 	color: #FFFFFF;
+	word-break: break-all;
 }
 
 .text-contact-tel {
